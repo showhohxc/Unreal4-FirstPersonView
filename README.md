@@ -13,3 +13,13 @@
 ### Option 
 ![Option-ezgif com-video-to-gif-converter](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/778d77f2-fdda-463d-98b0-82b32ec734c8)
 
+![Option](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/2df9c018-a9f5-4e5e-8926-030304930ca0)
+
+
+### Inventory System
+![UnrealHorrorGame64PCD3D_SM52024-02-1823-17-52-ezgif com-video-to-gif-converter (2)](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/638fb7f6-8b05-45b8-9f4b-44428b250d61)
+
+![Inventory](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/6f7f6e2a-3d69-4bc7-b613-4cd54fa3ea69)
+
+### AI
+
