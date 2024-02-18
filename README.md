@@ -7,3 +7,7 @@
 
 ## All Play Video
 [![Video Label](http://img.youtube.com/vi/uWpKgDLBP5E/0.jpg)](https://youtu.be/uWpKgDLBP5E)
+
+## Technical Manual
+
+### Option 
