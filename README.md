@@ -10,12 +10,13 @@
 
 ## Technical Manual
 
-
 ## - Option 
 ![Option-ezgif com-video-to-gif-converter](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/778d77f2-fdda-463d-98b0-82b32ec734c8)
 
 ![Option](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/2df9c018-a9f5-4e5e-8926-030304930ca0)
 
+샘플게임에 유의하여 간단하게 게임 유저 세팅에 적용 현재 옵션마다 바로 확인을 위하여 바로 적용이 되게끔 수정하였고 추후 하단부 게임유저세팅에 적용하는 Apply Setting 으로 전체 적용되게끔 예정
+대부분 위와 같은 형식으로 언리얼에서 제공하는 API를 이용하여 옵션 기능 구현
 
 ## - Inventory System
 ![UnrealHorrorGame64PCD3D_SM52024-02-1823-17-52-ezgif com-video-to-gif-converter (2)](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/638fb7f6-8b05-45b8-9f4b-44428b250d61)
