@@ -10,19 +10,19 @@
 
 ## Technical Manual
 
-### Option 
+### - Option 
 ![Option-ezgif com-video-to-gif-converter](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/778d77f2-fdda-463d-98b0-82b32ec734c8)
 
 ![Option](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/2df9c018-a9f5-4e5e-8926-030304930ca0)
 
 
-### Inventory System
+### - Inventory System
 ![UnrealHorrorGame64PCD3D_SM52024-02-1823-17-52-ezgif com-video-to-gif-converter (2)](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/638fb7f6-8b05-45b8-9f4b-44428b250d61)
 
 ![Inventory](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/6f7f6e2a-3d69-4bc7-b613-4cd54fa3ea69)
 
 
-### Quest
+### - Quest
 ![UnrealHorrorGame (64-bit Development PCD3D_SM5)  2024-02-18 오후 1_38_48](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/c40b2521-73b4-4219-86e4-12eb4e0b0d2a)
 
 ![UnrealHorrorGame (64-bit Development PCD3D_SM5)  2024-02-18 오후 1_39_02](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/1a18ee52-b540-4e89-9089-72a901c5426d)
@@ -30,7 +30,7 @@
 ![UnrealHorrorGame (64-bit Development PCD3D_SM5)  2024-02-18 오후 1_39_08](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/a04cc2a6-b568-4872-b014-75e8ae33fab1)
 
 
-### AI
+### - AI
 
 ![AI-ezgif com-video-to-gif-converter](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/706c2715-c322-4b7f-ac52-a20f1971720d)
 
