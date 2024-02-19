@@ -22,7 +22,7 @@
 ## - Player Character 구성도
 
 > L1_Character<br/>
-> L1_Character BP에서 게임 플레이에 필요한 초기 세팅
+> L1_Character BP에서 게임 플레이에 필요한 초기 세팅<br/> 
 > ● BPC_Movement/BPC_Flashlight/BPC_Inventory/BPC_Health 세팅<br/> 
 > ● Set Character Default Movement<걷기/달리기/앉기/좌우기울기/점프> <br/> 
 > ● Set Camera PostProcess<br/> 
