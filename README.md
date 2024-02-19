@@ -19,6 +19,23 @@
 
 ![Option](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/2df9c018-a9f5-4e5e-8926-030304930ca0)
 
+## - Player Character 구성도
+
+> L1_Character<br/>
+> - L1_Character BP에서 게임 플레이에 필요한 초기 세팅
+> ● BPC_Movement/BPC_Flashlight/BPC_Inventory/BPC_Health 세팅<br/> 
+> ● Set Character Default Movement<걷기/달리기/앉기/좌우기울기/점프> <br/> 
+> ● Set Camera PostProcess<br/> 
+> ● 물체와의 상호작용(BPI_Interection) // Character 캐릭터의 Action에 반응하는 Item BP에 대해서는 BPI_Interection을 구현 후 메시지 전달<br/> 
+> ● FlashToggle Action<br/> 
+> ● L1_Character의 위젯(W_MianHUDRef) 생성<br/>
+> ● PlayFootStep<발자국 사운드>->걷는 Ground의 Physical Material이 다르면 사운드 교체(Ground에 맞는)<br/>
+> ● L1_Character의 위젯(W_MianHUDRef) 생성<br/>
+> ● L1_Character Location 과 Enemy_Character Location 지근거리시 Catch Event 생성<br/> 
+
+![image](https://github.com/showhohxc/Unreal4-FirstPersonView/assets/98040028/5f839a5c-07cb-4e3e-8a84-618f7b687db6)
+
+
 ## - Inventory System
 
 > BPC_Inventory<br/> 
